@@ -1,10 +1,12 @@
 body {
-    background-color: black;
+    background-color: rgb(75, 73, 73);
     text-align: center;
 }
 
 h1 {
     color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 100;
 }
 h2 {
     color: white;
@@ -19,5 +21,9 @@ h5 {
     color: white;
 }
 p {
-    color: red;
+    color:white;
+    font-family: 'Times New Roman', Times, serif;
+}
+div {
+    background-color: rgb(119, 115, 115);
 }
